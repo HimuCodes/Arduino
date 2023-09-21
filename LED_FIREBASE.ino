@@ -17,7 +17,7 @@
 
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDWXVqE9FecuUXOw2RzCwwmhDATqcmu2XQ"
+#define API_KEY ""
 
 // Insert RTDB URL
 #define DATABASE_URL "https://unique-nebula-386818-default-rtdb.firebaseio.com/" 
